@@ -7,12 +7,12 @@
 
 **目录**
 
-1. **引言** [链接](https://github.com/pluveto/Reading-Large-Scale-Code/blob/main/1-introduction-and-contents.md)
+1. **引言** [链接](https://www.less-bug.com/posts/reading-large-scale-code-challenges-and-practices-1-introduction-and-contents/)
     - 1.1 阅读大型、复杂项目代码的挑战
     - 1.2 阅读代码的机会成本
     - 1.3 本系列文章的目的
 
-2. **准备阅读代码** [链接](https://github.com/pluveto/Reading-Large-Scale-Code/blob/main/2-dont-read-code-first.md)
+2. **准备阅读代码** [链接](https://www.less-bug.com/posts/reading-code-at-scale-challenges-and-practices-2-dont-read-code-first/)
     - 2.1 阅读需求文档和设计文档
     - 2.2 以用户角度深度体验程序
 
