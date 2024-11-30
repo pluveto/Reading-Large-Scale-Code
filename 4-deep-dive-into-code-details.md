@@ -325,7 +325,7 @@ func ResourceLocation(ctx context.Context, getter ResourceGetter, rt http.RoundT
 
 良好的命名可以提供大量信息，结合上下文，能帮助你快速理解代码的功能和目的。通过分析变量、函数和类的命名，可以推测其作用和关联。
 
-不良好的命名，咱也可以先大胆猜测。下面的代码摘自 https://github.com/LuaJIT/LuaJIT/blob/v2.1/src/lj_mcode.c
+不良好的命名，咱也可以先大胆猜测。下面的代码摘自 https://github.com/nodejs/node/blob/main/src/large_pages/node_large_page.cc
 
 ```cpp
 struct text_region FindNodeTextRegion() {
