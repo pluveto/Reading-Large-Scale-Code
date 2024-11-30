@@ -24,7 +24,7 @@
         - 3.3.2 文件结构猜测功能
         - 3.3.3 代码层面的功能推断
 
-4. **深入代码细节**
+4. **深入代码细节** [链接](https://github.com/pluveto/Reading-Large-Scale-Code/blob/main/4-deep-dive-into-code-details.md)
     - 4.1 阅读测试代码：单元测试的洞察
     - 4.2 函数分析：追踪输入变量的来源
     - 4.3 过程块理解
